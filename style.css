@@ -1,0 +1,18 @@
+head
+{
+
+}
+
+body
+{
+    background-color: hsl(0, 0%, 100%);
+}
+
+button{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+hr{
+    color: hsl(0, 0%, 0%);
+}
